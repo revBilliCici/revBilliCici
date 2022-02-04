@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revBilliCici
 - 👀 I’m interested in Coding and Problem-Solving
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on React Based Projects
 - 📫 You can reach me on my email:  style.loopy@gmail.com
 
